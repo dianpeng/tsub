@@ -115,9 +115,6 @@ public:
 Then you just need to pass this context instance to function run, then all the variable reference
 and function invoking will be direct to your context implementation
 
-4. Bug
-Not too much tests have been done, any bug can report to dpeng@edgecast.com
-
 Have fun :)
 
 
